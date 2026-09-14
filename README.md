@@ -34,7 +34,9 @@ Each week consists of one **lecture** (2×45 min) and one **lab** (2×45 min).
 - Explore `printf` / `scanf` format specifiers
 
 ---
-
+**Note**
+I confirm that I successfully built and ran ./bin/hello
+---
 ## Week 2 – Control Flow & Functions
 **Lecture**
 - Operators and precedence
